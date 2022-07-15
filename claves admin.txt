@@ -17,7 +17,6 @@ Superuser created successfully
 -----------------------------------------
 python manage.py runserver
 
-
 usuarios normales
 
 ver
@@ -39,6 +38,5 @@ modificar
 mod123456
 (modificar + ver)
 modificar@modificar.cl
-
 -----------------------------------------
 -----------------------------------------
